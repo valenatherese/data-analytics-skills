@@ -27,7 +27,7 @@ Description: This Jupyter Notebook analyzes a dataset of ecommerce orders and us
 
 Skills: data analysis, data visualization  
 Technology: Python, Pandas, Matplotlib  
-Source: [Ecommerce Sales Dataset](https://www.kaggle.com/code/vladmarascu/ecommerce-amazon-sales-pandas-exercise)
+Source: [Ecommerce Sales Dataset](https://www.kaggle.com/datasets/vladmarascu/ecommerce-purchases-csv)
 
 ### Analysis of Employee Compensation (Python) 💼💰
 Notebook Link: [`04_DA_Python-Pandas_Compensation`](https://github.com/valenatherese/data-analytics-skills/blob/main/04-DA_Python-Pandas_Compensation.ipynb) (if the Github link has issues, use [`nbviewer`](https://nbviewer.org/github/valenatherese/data-analytics-skills/blob/284b83af683ff799a5c27069685dc8234e55a625/04-DA_Python-Pandas_Compensation.ipynb))
